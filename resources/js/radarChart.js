@@ -16,7 +16,7 @@ const radarChart = () => {
 
             const title = component.get('radarChartModel.title');
             const animated = component.get('radarChartModel.animated');
-            const onPointClickEventName = component.get('areaChartModel.onPointClickEventName');
+            const onPointClickEventName = component.get('radarChartModel.onPointClickEventName');
             const dataLabels = component.get('radarChartModel.dataLabels');
             const data = component.get('radarChartModel.data');
             const sparkline = component.get('radarChartModel.sparkline');
