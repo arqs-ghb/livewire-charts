@@ -1,11 +1,11 @@
 {
-    "name": "asantibanez/livewire-charts",
-    "description": "Livewire Charts",
+    "name": "arqs-ghb/livewire-charts",
+    "description": "Livewire Charts fork",
     "keywords": [
         "asantibanez",
         "livewire-charts"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-charts",
+    "homepage": "https://github.com/arqs-ghb/livewire-charts",
     "license": "MIT",
     "type": "library",
     "authors": [
